@@ -1,0 +1,23 @@
+h1 {
+    color: #000000;
+    font-family: "Lobster", monospace;
+}
+
+p,
+li {
+    color: #14213d;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.profile-img {
+    border-color: #fca311;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 10px;
+    width: 200px;
+}
+
+.platinum-background {
+    background-color: #e5e5e5;
+}
