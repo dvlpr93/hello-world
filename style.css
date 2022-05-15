@@ -1,6 +1,9 @@
 body {
+    background: linear-gradient(35deg, #433da0, #71d0d4);
     margin: 0;
     font-family: "Roboto";
+    height: 100vh;
+    cursor: default;
 }
 
 h1 {
@@ -30,15 +33,14 @@ p {
 }
 
 .container-1 {
-    background-color: #2355A2;
-    color: #F2F9EE;
+    color: #ffffff;
     flex-direction: column;
     align-items: center;
     padding: 25px 0 50px 0;
 }
 
 .container-2 {
-    background-color: #F2F9EE;
+    background-color: #ffffff;
     color: #2355A2;
     flex-direction: column;
     align-items: center;
@@ -46,7 +48,6 @@ p {
 }
 
 .container-3 {
-    background-color: #2355A2;
-    color: #F2F9EE;
-    padding: 40px 0 40px 0;
+    color: #ffffff;
+    padding: 60px 0 60px 0;
 }
